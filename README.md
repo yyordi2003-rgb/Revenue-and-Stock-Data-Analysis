@@ -1,2 +1,3 @@
-# Revenue and Stock Data Analysis
+# Coursera Python Project
+## Revenue and Stock Data Analysis
 
